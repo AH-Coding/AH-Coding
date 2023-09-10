@@ -11,13 +11,12 @@ I'm a passionate student with a love for coding and a strong commitment to shari
 
 I run a YouTube channel where I share tutorials, coding tips, and programming-related content. Subscribe to my channel to stay updated with the latest in the world of coding!
 
-- [![YouTube](https://img.shields.io/badge/YouTube-AHCoding-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AHCoding)
-
 ## Social Media
 
 Connect with me on social media:
 
-- YouTube: [![YouTube](https://img.shields.io/badge/YouTube-AHCoding-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AHCoding)
-- Twitter: [![Twitter](https://img.shields.io/badge/Twitter-AHCoding-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ahcoding)
+[![YouTube](https://img.shields.io/badge/YouTube-AHCoding-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AHCoding)
 
-Feel free to reach out to me through any of these platforms. Let's learn and code together!
+[![Twitter](https://img.shields.io/badge/Twitter-AHCoding-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ahcoding)
+
+_Feel free to reach out to me through any of these platforms. Let's learn and code together!_

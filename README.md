@@ -1,9 +1,23 @@
-- 👋 Hi, My name is Abdul Hannan
-- 👀 I’m interested in coding, playing games and hope one day I might create my own.
-- 🌱 I’m currently learning python language and looking to learn alot more languages!
-- 📫 Contact Email: hannan57612@outlook.com
+# Hello, I'm AH Coding
 
-<!---
-hannanGEENO/hannanGEENO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate student with a love for coding and a strong commitment to sharing knowledge with the programming community. I have experience in various programming languages and enjoy creating content on YouTube to help others learn and grow in their coding journey.
+
+## Skills
+
+- **Languages:** Python, C++, JavaScript
+- **Web Development:** HTML, CSS
+
+## YouTube Channel
+
+I run a YouTube channel where I share tutorials, coding tips, and programming-related content. Subscribe to my channel to stay updated with the latest in the world of coding!
+
+- [![YouTube](https://img.shields.io/badge/YouTube-AHCoding-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AHCoding)
+
+## Social Media
+
+Connect with me on social media:
+
+- YouTube: [![YouTube](https://img.shields.io/badge/YouTube-AHCoding-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AHCoding)
+- Twitter: [![Twitter](https://img.shields.io/badge/Twitter-AHCoding-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ahcoding)
+
+Feel free to reach out to me through any of these platforms. Let's learn and code together!
